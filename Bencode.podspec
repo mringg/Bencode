@@ -11,7 +11,7 @@ Can be used for e.g.: decoding .torrent files.
   s.homepage         = 'https://github.com/danieltmbr/Bencode'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'danieltmbr' => 'daniel@tmbr.me' }
-  s.source           = { :git => 'https://github.com/danieltmbr/Bencode.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/mringg/Bencode.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/danieltmbr'
 
   s.ios.deployment_target = '8.0'
