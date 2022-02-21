@@ -16,6 +16,7 @@ Can be used for e.g.: decoding .torrent files.
 
   s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.10'
+  s.tvos.deployment_target = '14.0'
 
   s.source_files = 'Source/*.swift'
 
